@@ -1,7 +1,7 @@
 <h1>About</h1>
 This is a presentation to walk through what Static Web Apps is for beginners. Made using reveal.js. Used first time on Samosachai.NET for the livestream "SWA se Swaagat" on 28th July 2022
 <a href="https://aka.ms/swa">
-  <img src="images/01007-icon-Static Apps-Web.svg" alt="Azure Static Web Apps" width="500">
+  <img src="static/images/01007-icon-Static Apps-Web.svg" alt="Azure Static Web Apps" width="500">
   </a>
 
 <h2>Reveal.js</h2>
